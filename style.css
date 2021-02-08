@@ -1,0 +1,15 @@
+.puppy {
+  font-family:"Times New Roman";
+  color:red;
+}
+.hello {
+  font-family:"Arial";
+  color:blue;
+}
+div.fixed {
+  position: absolute;
+  right: 300;
+  top: 2000px;
+  width: 200px;
+  border: 30px solid #73AD21;
+}
